@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-![Banner](tu-banner.png)
+![Banner](GitHub_Banner.png)
 -->
+<p align="center">
+  <img src="GitHub_Banner.png" alt="Banner" width="1280" height="400">
+</p>
+
 ## 👋 Sobre mí
 
 ¡Hola! Soy **David Arreola Guerrero**, ¡un gusto!  
