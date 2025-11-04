@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 👋 Sobre mí
 
-¡Hola! Soy **David Arreola Guerrero**, ¡un gusto!  
+¡Hola! Soy **David**, ¡un gusto!  
 Soy **Analista de Datos Jr.** con formación reciente en análisis, visualización e interpretación de datos, egresado del **bootcamp de Análisis de Datos de TripleTen**.  
 
 Antes de dedicarme a los datos, trabajé como **compositor de efectos visuales** en Vancouver, Canadá, donde desarrollé una gran atención al detalle, disciplina y una mentalidad orientada a resultados.
