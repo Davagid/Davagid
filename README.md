@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
+![Banner](tu-banner.png)
+-->
 ## 👋 Sobre mí
 
 ¡Hola! Soy **David Arreola Guerrero**, ¡un gusto!  
